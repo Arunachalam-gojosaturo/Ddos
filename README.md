@@ -23,12 +23,16 @@
 
 ## 📽️ Live Demonstration Showcase
 
+<p align="center">
+  <img src="assets/demo_preview.gif" alt="ARC-GHOST Live Operational Demo Preview" width="100%" />
+</p>
+
 Below is the full screen recording demonstration (`demo.mp4`) showing **ARC-GHOST** in action—real-time process detection, network isolation, cyberpunk telemetry HUD, packet flood visualizer, and 3-second automated page refresh reloads.
 
 https://github.com/Arunachalam-gojosaturo/Ddos/raw/Main/assets/demo.mp4
 
 <p align="center">
-  <video src="https://github.com/Arunachalam-gojosaturo/Ddos/raw/Main/assets/demo.mp4" controls="controls" width="100%" poster="https://raw.githubusercontent.com/Arunachalam-gojosaturo/Ddos/Main/assets/arc_ghost_header.jpg">
+  <video src="https://github.com/Arunachalam-gojosaturo/Ddos/raw/Main/assets/demo.mp4" controls="controls" autoplay loop muted width="100%" poster="https://raw.githubusercontent.com/Arunachalam-gojosaturo/Ddos/Main/assets/arc_ghost_header.jpg">
     Watch the demonstration video directly: <a href="https://github.com/Arunachalam-gojosaturo/Ddos/raw/Main/assets/demo.mp4">assets/demo.mp4</a>.
   </video>
 </p>
