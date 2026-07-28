@@ -1,0 +1,3 @@
+# Optional dependencies for advanced image handling (Pillow)
+# Note: Standard python3-tk and system ImageMagick (magick/convert) work out of the box without pip packages!
+Pillow>=9.0.0
