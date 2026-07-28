@@ -13,7 +13,9 @@
 
 ## 🛡️ Overview
 
-**ARC-GHOST** is an advanced, cyberpunk-themed **Authorized Security Assessment & Targeted Process Isolation Suite** designed for Linux environments. Developed by **Arunachalam** at **ArcXOS Security Labs**, ARC-GHOST enables security researchers and system administrators to simulate DDoS traffic floods and isolate specific application network vectors (such as Mozilla Firefox) **in real-time**—all while preserving 100% of the host machine's global WiFi, Ethernet, and background system connections.
+**Arunachalam's ARC-GHOST** is an advanced, cyberpunk-themed Authorized Security Assessment & Targeted Process Isolation Suite designed for Linux environments. Developed by a 7-year veteran builder based in (Tamil Nadu), India.
+
+ARC-GHOST enables security researchers and system administrators to simulate DDoS traffic floods and isolate specific application network vectors (such as Mozilla Firefox) **in real-time**—all while preserving 100% of the host machine's global WiFi, Ethernet, and background system connections.
 
 - 🌐 **Official Website:** [https://arcxos.vercel.app](https://arcxos.vercel.app)
 - 🐙 **GitHub Repository:** [github.com/Arunachalam-gojosaturo/Ddos](https://github.com/Arunachalam-gojosaturo/Ddos.git)
