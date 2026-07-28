@@ -13,10 +13,13 @@
 
 ## 🛡️ Overview
 
+**Arunachalam's ArcXos**: A specialized penetration testing and security auditing distribution built on Arch Linux. Developed by a 7-year veteran builder based in (Tamil Nadu), India.
+
 **ARC-GHOST** is an advanced, cyberpunk-themed **Authorized Security Assessment & Targeted Process Isolation Suite** designed for Linux environments. Developed by **Arunachalam** at **ArcXOS Security Labs**, ARC-GHOST enables security researchers and system administrators to simulate DDoS traffic floods and isolate specific application network vectors (such as Mozilla Firefox) **in real-time**—all while preserving 100% of the host machine's global WiFi, Ethernet, and background system connections.
 
 - 🌐 **Official Website:** [https://arcxos.vercel.app](https://arcxos.vercel.app)
 - 🐙 **GitHub Repository:** [github.com/Arunachalam-gojosaturo/Ddos](https://github.com/Arunachalam-gojosaturo/Ddos.git)
+- 📦 **AUR Package:** `yay -S ddos`
 - 👤 **Developer:** Arunachalam (**ArcXOS Security Labs**)
 
 ---
@@ -82,12 +85,15 @@ https://github.com/Arunachalam-gojosaturo/Ddos/raw/Main/assets/demo.mp4
 
 ## 💻 Installation & Requirements
 
-### System Requirements
-- **OS**: Linux (Ubuntu, Debian, Arch Linux, Fedora, Hyprland, etc.)
-- **Python**: `Python 3.8+` with standard `tkinter`
-- **Privileges**: `sudo` access for kernel cgroup and firewall rule management
+### Option 1: Arch Linux (AUR)
 
-### Quick Setup
+Install directly via `yay`:
+
+```bash
+yay -S ddos
+```
+
+### Option 2: Manual Installation
 
 ```bash
 # Clone the repository
